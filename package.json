@@ -5,7 +5,7 @@
   "default": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --log-level verbose --dist-dir ./dist"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Evgeny Danileyko",
   "license": "ISC",
